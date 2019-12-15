@@ -1,1 +1,2 @@
-# workshop-data_visualization_ggplot_extensions2
+## Data Visualization With *R*: *ggplot2* extensions
+
