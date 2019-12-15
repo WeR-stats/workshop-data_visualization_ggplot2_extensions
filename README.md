@@ -1,2 +1,2 @@
-## Data Visualization With *R*: *ggplot2* extensions
+## Data Visualization with the *tidyverse*: *ggplot2* extensions
 
